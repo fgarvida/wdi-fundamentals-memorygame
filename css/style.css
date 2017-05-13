@@ -82,6 +82,11 @@ footer {
 	float: right;
 }
 
+.resetButton {
+	border-style: none;
+	padding-top: 24px;
+}
+
 .clearfix:after {
   visibility: hidden;
   display: block;
